@@ -1,0 +1,26 @@
+**********************************************
+* Config xREL - Release Viewer               * 
+* Version: 1.3.0                           *    
+* Only edit the values between the "< >"     *
+********************************************** 
+
+;URL of the RSS Feed Releases
+<http://www.xrel.to/feeds/atom/releases.xml>
+
+;Refresh Time fetching Releases in ms
+<60000>
+
+;copy Releases to Clipboard by doubleklick on Release
+;set "1" for enable / set "0" for disable
+<1>
+
+;enable dynamic in GUI
+;set "1" for enable / set "0" for disable
+<0>
+
+;enable/disable Tooltip on Releases with Time Info
+;set "1" for enable / set "0" for disable
+<1>
+
+
+
